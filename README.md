@@ -43,3 +43,5 @@ The fourth assignment are Deployment, Networking, Domain, and Workflow. Therefor
 
 <h1>RESULT</h1>
 Here is my result <a href="https://got-fan.site/"rel="nofollow">got-fan.site</a> !
+
+![Screen Shot 2023-07-07 at 13 36 34](https://github.com/RevoU-FSSE-2/week-4-resyanac/assets/135514670/2555fb2d-51ab-4b3e-b623-a35cfd4ef010)
